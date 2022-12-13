@@ -104,7 +104,6 @@
                                     echo "<option value='0'>Category Not Available</option>";
                                 }
                             ?>
-                            <option value="0">Test</option>
                         </select>
                     </td>
                 </tr>
@@ -142,7 +141,7 @@
             {
                 $id = $_POST['id'];
                 $title = $_POST['title'];
-                $descrioption = $_POST['description'];
+                $description = $_POST['description'];
                 $price = $_POST['price'];
                 $current_image = $_POST['current_image'];
                 $category = $_POST['category'];

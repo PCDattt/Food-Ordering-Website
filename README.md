@@ -15,4 +15,4 @@ Features:
   
     Basic prevent SQL Injection.
   
-Reference: Vijay Thapa - https://www.youtube.com/@VijayThapa
+Reference: Vijay Thapa - https://youtu.be/ZBgTzx46B8s
